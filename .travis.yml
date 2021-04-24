@@ -21,3 +21,4 @@ after_success:
     - docker push parul5sahoo/multi-client
     - docker push parul5sahoo/multi-nginx
     - docker push parul5sahoo/multi-server
+    - docker push parul5sahoo/multi-worker
