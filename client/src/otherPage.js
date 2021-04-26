@@ -12,5 +12,4 @@ const otherPage = () => {
 
 
 
-export default otherPage
-;
+export default otherPage;
